@@ -1,3 +1,3 @@
 # Naminum
-Second project of architecture and organization of computers
-This project was done with the colaboration of andrew210
+Second project of architecture and organization of computers.
+This project was done with the colaboration of AndrewKM210.
